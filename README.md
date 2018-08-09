@@ -15,7 +15,7 @@ Windows装机必备软件
     
 *   [Rainmeter](https://www.rainmeter.net/)
     
-    开源免费的桌面美化工具 · [群组](group/167)
+    开源免费的桌面美化工具 · [群组](https://www.prohui.com/group/167)
     
 *   [f.lux](p727.html)
     
@@ -433,22 +433,3 @@ Windows装机必备软件
 *   [OBS Studio](https://obsproject.com)
     
     最受欢迎的直播应用
-    
-
-分类导航
-
-[系统美化](topic-software.html#desktop)
-
-[浏览器](topic-software.html#browser)
-
-[输入法](topic-software.html#input)
-
-[系统工具](topic-software.html#tool)
-
-[办公效率](topic-software.html#work)
-
-[设计生产](topic-software.html#design)
-
-[编程开发](topic-software.html#code)
-
-[影音娱乐](topic-software.html#media)
